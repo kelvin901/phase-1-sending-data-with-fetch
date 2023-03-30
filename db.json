@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Creep",
+      "dogBreed": "German Shepherd",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,203 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 1
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 2
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 3
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 4
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 5
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 6
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 7
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 8
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 9
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 10
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 11
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 12
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 13
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 14
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 15
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 16
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 17
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 18
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 19
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 20
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 21
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 22
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 23
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 24
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 25
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 26
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 27
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 28
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 29
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 30
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 31
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 32
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 33
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 34
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 35
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 36
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 37
+    },
+    {
+      "name": "Kelvin",
+      "email": "kelvin.nyoike@student.moringaschool.com",
+      "id": 38
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
